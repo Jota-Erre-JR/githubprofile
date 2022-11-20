@@ -1,0 +1,17 @@
+a,
+a:hover{
+  text-decoration: none;
+  color: unset;
+}
+
+
+.main-nav {
+  padding-left: 40px;
+  min-height: 62px;
+  background-color: #1890FF;
+}
+
+.main-nav h4{
+  font-size: 24px;
+  font-weight: 500;
+}
