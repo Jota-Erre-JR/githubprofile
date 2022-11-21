@@ -10,30 +10,17 @@ Frontend project with react and typescript.
 <div>
     <p>
         <a href="https://github.com/Jota-Erre-JR/githubprofile/edit/main/README.md">
-          <img width="300" src="">
+          <img width="300" height="620" src="https://github.com/Jota-Erre-JR/githubprofile/blob/main/assets/images/localhost_3000_mob.png">
         </a>
         <a href="https://github.com/Jota-Erre-JR/githubprofile/edit/main/README.md">
-          <img width="300" src="">
+          <img width="300" height="620" src="https://github.com/Jota-Erre-JR/githubprofile/blob/main/assets/images/localhost_3000_profile.png">
         </a>
-        <a>
-          <img width="300" src="">
+        <a href="https://github.com/Jota-Erre-JR/githubprofile/edit/main/README.md">
+          <img width="300" height="620" src="https://github.com/Jota-Erre-JR/githubprofile/blob/main/assets/images/localhost_3000_profile_mob.png">
       </a>  
      </p>
  </div>
  
- ***768px***
- 
- <div>
-    <p>
-        <a href="https://github.com/Jota-Erre-JR/
-githubprofile/edit/main/README.md">
-          <img width="768" src="">
-        </a>
-        <a href="https://github.com/Jota-Erre-JR/githubprofile/edit/main/README.md">
-         <img width="768" src="">
-      </a>  
-     </p>
- </div>
 
 #
 ### Web Views
@@ -42,10 +29,10 @@ githubprofile/edit/main/README.md">
 <div>
     <p>
         <a href="https://github.com/Jota-Erre-JR/githubprofile/edit/main/README.md">
-          <img width="1280" src="">
+          <img width="1280" src="https://github.com/Jota-Erre-JR/githubprofile/blob/main/assets/images/localhost_3000_xl.png">
         </a>
         <a href="https://github.com/Jota-Erre-JR/githubprofile/edit/main/README.md">
-         <img width="1280" src="">
+         <img width="1280" src="https://github.com/Jota-Erre-JR/githubprofile/blob/main/assets/images/localhost_3000_profile_xl.png">
       </a>  
      </p>
  </div>
